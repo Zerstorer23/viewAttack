@@ -1,0 +1,11 @@
+maxcore,3,최대 가동 코어
+gallID,lilyfever,타겟 갤러리
+major,false
+count,5
+threshold,210,0보다 낮게 설정시 최대조회 사용
+maxPer,3
+thbest,3
+updateInterval,5
+cafemode,false
+linux,false
+useKeyword,00,N=닉 T = 제목
